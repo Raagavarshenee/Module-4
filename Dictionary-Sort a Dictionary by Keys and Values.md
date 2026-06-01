@@ -50,5 +50,5 @@ Dictionary Sorted by Keys: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
 Dictionary Sorted by Values: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
 
 ## Result
-program is executed successfully
+program is executed successfully.
 
